@@ -1,5 +1,7 @@
 {
     "name": "doppiogangio/precondition-bundle",
+    "type": "library",
+    "licence": "MIT",
     "autoload": {
         "psr-4": {
             "DoppioGancio\\PreconditionBundle\\": "src/"
