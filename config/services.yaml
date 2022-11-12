@@ -1,0 +1,5 @@
+services:
+  DoppioGancio\PreconditionBundle\EventSubscriber\ControllerActionListener:
+    autowire: true
+    tags:
+      - { name: kernel.event_subscriber }
